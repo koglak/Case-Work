@@ -2,7 +2,7 @@
  Inbound Case Work- Slider Button
 # Slider Button Application 
 
-##Intro 
+## Intro 
 You need to implement the following slider button design for Panço. You can check the functionality and design of it by visiting the link (mobile). Example picture of the design is at the end of the document. 
 * Consider this exercise only for the mobile version of the website. 
 * You can use javascript, css and html. Jquery or other js. libraries are not permitted. 
